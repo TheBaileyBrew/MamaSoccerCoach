@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "290577399538",
+    "firebase_url": "https://mamasoccercoach.firebaseio.com",
+    "project_id": "mamasoccercoach",
+    "storage_bucket": "mamasoccercoach.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290577399538:android:bc817363b70f18ed",
+        "android_client_info": {
+          "package_name": "com.thebaileybrew.mamasoccercoach"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290577399538-bjqprqno0djac1pgm6uf7i4ul3bmpd8n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thebaileybrew.mamasoccercoach",
+            "certificate_hash": "6fbda0ea65aa6c34080db7d332707e45accc9091"
+          }
+        },
+        {
+          "client_id": "290577399538-uo7jqmdtjkqti9h542f5lgd32n9933th.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAKuqUx0L7JPxAGnK2t5ozKt1Z6v6xNiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290577399538-uo7jqmdtjkqti9h542f5lgd32n9933th.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

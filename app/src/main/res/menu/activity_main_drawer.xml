@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_player_details"
+            android:icon="@drawable/ic_menu_player"
+            android:title="Update Player Details" />
+        <item
+            android:id="@+id/nav_quarters"
+            android:icon="@drawable/ic_menu_quarter"
+            android:title="Set Quarter Assignments" />
+        <item
+            android:id="@+id/nav_game_notes"
+            android:icon="@drawable/ic_menu_note"
+            android:title="Game Notes" />
+
+    </group>
+
+    <item android:title="Tools and Schedule">
+        <menu>
+            <item
+                android:id="@+id/nav_tools"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Tools" />
+            <item
+                android:id="@+id/nav_schedule_game"
+                android:icon="@drawable/ic_menu_schedule"
+                android:title="Game Schedule" />
+            <item
+                android:id="@+id/nav_schedule_snack"
+                android:icon="@drawable/ic_menu_snacks"
+                android:title="Snack Schedule" />
+        </menu>
+    </item>
+
+</menu>
